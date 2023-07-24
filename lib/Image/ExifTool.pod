@@ -799,7 +799,7 @@ previous IgnoreTags list.  Default is undef.
 
 =item ImageHashType
 
-Sets type of hash algorithem used for the ImageDataHash tag calculation. 
+Sets type of hash algorithm used for the ImageDataHash tag calculation. 
 Supported options are 'MD5', 'SHA256', and 'SHA512'.  Default is 'MD5'.
 
 =item Lang
